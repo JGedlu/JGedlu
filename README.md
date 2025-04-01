@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm **Jason Gedlu**, a Computer Science student at Capitol Technology University with a passion for **software engineering, robotics, and human systems design**. I thrive at the intersection of technology and creativity, building solutions that improve lives.
+I'm **Jason Gedlu**, a Computer Science student at Capitol Technology University with a passion for **software engineering, robotics, and automation**. I thrive at the intersection of technology and creativity, building solutions that improve lives.
 
 💻 **Technical Skills**:
 - **Programming Languages**: Python, C/C++, Java, JavaScript, MATLAB, HTML, CSS
